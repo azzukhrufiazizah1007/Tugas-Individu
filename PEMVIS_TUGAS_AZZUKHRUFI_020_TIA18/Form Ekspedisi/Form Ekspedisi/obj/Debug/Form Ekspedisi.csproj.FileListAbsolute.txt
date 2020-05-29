@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Form Ekspedisi\Form Ekspedisi\bin\Debug\Form Ekspedisi.exe.config
+C:\Users\hp\source\repos\Form Ekspedisi\Form Ekspedisi\bin\Debug\Form Ekspedisi.exe
+C:\Users\hp\source\repos\Form Ekspedisi\Form Ekspedisi\bin\Debug\Form Ekspedisi.pdb
+C:\Users\hp\source\repos\Form Ekspedisi\Form Ekspedisi\obj\Debug\Form Ekspedisi.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Form Ekspedisi\Form Ekspedisi\obj\Debug\Form_Ekspedisi.Form1.resources
+C:\Users\hp\source\repos\Form Ekspedisi\Form Ekspedisi\obj\Debug\Form_Ekspedisi.Properties.Resources.resources
+C:\Users\hp\source\repos\Form Ekspedisi\Form Ekspedisi\obj\Debug\Form Ekspedisi.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Form Ekspedisi\Form Ekspedisi\obj\Debug\Form Ekspedisi.exe
+C:\Users\hp\source\repos\Form Ekspedisi\Form Ekspedisi\obj\Debug\Form Ekspedisi.pdb
+C:\Users\hp\source\repos\Form Ekspedisi\Form Ekspedisi\obj\Debug\Form_Ekspedisi.Form2.resources

@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\Kalkulator_Project\Kalkulator_Project\bin\Debug\Kalkulator_Project.exe.config
+C:\Users\hp\source\repos\Kalkulator_Project\Kalkulator_Project\bin\Debug\Kalkulator_Project.exe
+C:\Users\hp\source\repos\Kalkulator_Project\Kalkulator_Project\bin\Debug\Kalkulator_Project.pdb
+C:\Users\hp\source\repos\Kalkulator_Project\Kalkulator_Project\obj\Debug\Kalkulator_Project.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Kalkulator_Project\Kalkulator_Project\obj\Debug\Kalkulator_Project.Form1.resources
+C:\Users\hp\source\repos\Kalkulator_Project\Kalkulator_Project\obj\Debug\Kalkulator_Project.Properties.Resources.resources
+C:\Users\hp\source\repos\Kalkulator_Project\Kalkulator_Project\obj\Debug\Kalkulator_Project.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Kalkulator_Project\Kalkulator_Project\obj\Debug\Kalkulator_Project.exe
+C:\Users\hp\source\repos\Kalkulator_Project\Kalkulator_Project\obj\Debug\Kalkulator_Project.pdb
