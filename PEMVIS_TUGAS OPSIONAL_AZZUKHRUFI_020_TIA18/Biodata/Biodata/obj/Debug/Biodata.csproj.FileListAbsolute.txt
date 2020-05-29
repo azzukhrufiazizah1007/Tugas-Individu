@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\Biodata\Biodata\bin\Debug\Biodata.exe.config
+C:\Users\hp\source\repos\Biodata\Biodata\bin\Debug\Biodata.exe
+C:\Users\hp\source\repos\Biodata\Biodata\bin\Debug\Biodata.pdb
+C:\Users\hp\source\repos\Biodata\Biodata\obj\Debug\Biodata.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Biodata\Biodata\obj\Debug\Biodata.Form1.resources
+C:\Users\hp\source\repos\Biodata\Biodata\obj\Debug\Biodata.Properties.Resources.resources
+C:\Users\hp\source\repos\Biodata\Biodata\obj\Debug\Biodata.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Biodata\Biodata\obj\Debug\Biodata.exe
+C:\Users\hp\source\repos\Biodata\Biodata\obj\Debug\Biodata.pdb

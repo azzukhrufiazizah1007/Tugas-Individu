@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\Desain Website\Desain Website\bin\Debug\Desain Website.exe.config
+C:\Users\hp\source\repos\Desain Website\Desain Website\bin\Debug\Desain Website.exe
+C:\Users\hp\source\repos\Desain Website\Desain Website\bin\Debug\Desain Website.pdb
+C:\Users\hp\source\repos\Desain Website\Desain Website\obj\Debug\Desain Website.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Desain Website\Desain Website\obj\Debug\Desain_Website.Form1.resources
+C:\Users\hp\source\repos\Desain Website\Desain Website\obj\Debug\Desain_Website.Properties.Resources.resources
+C:\Users\hp\source\repos\Desain Website\Desain Website\obj\Debug\Desain Website.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Desain Website\Desain Website\obj\Debug\Desain Website.exe
+C:\Users\hp\source\repos\Desain Website\Desain Website\obj\Debug\Desain Website.pdb
